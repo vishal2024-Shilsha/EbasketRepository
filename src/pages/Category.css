@@ -1,0 +1,29 @@
+.form-control{
+    width: 60%;
+}
+
+.outer{
+    width: 0%;
+    padding: 1%;
+    margin: auto;
+}
+
+.btn{
+    color: black;
+}
+
+
+.category-name{
+    width: 22%;
+}
+.category-names{
+    width: 30%;
+}
+
+.del{
+    width: 10%;
+}
+
+.category-id{
+    width: 15%;
+}

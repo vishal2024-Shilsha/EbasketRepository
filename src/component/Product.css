@@ -1,0 +1,55 @@
+
+
+.form-control:focus {
+    border-color: rgb(7, 7, 87) ;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
+  }
+
+.form-group{
+    margin-bottom: 25px;
+    color: rgb(7, 7, 87);
+    font-size: large;
+    font-weight: 600;
+    /* font-style: ; */
+}
+
+.form-control{
+    width: 75%;
+    border: 1px solid rgb(31, 31, 87);
+}
+
+.form-control::placeholder{
+    color: rgb(31, 31, 87);
+
+}
+
+.set{
+    margin: auto;
+}
+
+.buttun{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    font-weight: 800;
+    color: white;
+}
+
+
+.buttun:hover,.another-class:hover{
+    border: none;
+    background-color: rgb(76, 76, 163);
+  }
+
+  .error{
+    font-size: 0.7rem; 
+    color: #dc2626;
+    font-weight: 300; 
+  }
+
+.buttun:focus{
+    outline: none;
+}

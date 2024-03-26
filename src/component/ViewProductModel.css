@@ -1,0 +1,15 @@
+
+.row1, .col ,.row2{
+    border: 1px solid rgb(89, 23, 243);
+}
+
+/* .row1{
+    background-color: rgb(69, 69, 250);
+    color: white;
+} */
+
+.row1{
+    color: black;
+    font-weight: bolder;
+    font-size: medium;
+}

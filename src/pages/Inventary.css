@@ -1,0 +1,9 @@
+.widt{
+    width: 22%;
+}
+
+.color{
+    color: red !important;
+    background-color: rgb(226, 226, 91);
+    font-weight: 700;
+}
